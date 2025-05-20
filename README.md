@@ -72,10 +72,4 @@ The goal is to preprocess, clean, and visualize the dataset to uncover meaningfu
 
 This EDA project provides a foundation for more complex analyses, such as clustering student profiles, identifying performance trends by demographic, or building predictive models. It demonstrates the power of EDA in extracting value from raw educational data.
 
----
 
-## 🚀 Getting Started
-
-1. Clone the repository  
-```bash
-git clone https://github.com/your-username/student-eda.git
